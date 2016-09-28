@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="regression">
+  <test name="smoke">
+    <classes>
+      <class name="selenium.yahoosearch.YahooSearch">
+        
+      </class> <!-- selenium.yahoosearch.Yahooanswers -->
+       <class name="selenium.yahoosearch.Yahoomail">
+        
+      </class>
+       <class name="selenium.yahoosearch.Yahooanswers">
+        
+      </class>
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
